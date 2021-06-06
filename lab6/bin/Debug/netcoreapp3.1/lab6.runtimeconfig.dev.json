@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mordecai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mordecai\\.nuget\\packages"
+    ]
+  }
+}
